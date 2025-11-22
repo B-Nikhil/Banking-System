@@ -1,0 +1,17 @@
+# Compiled files
+*.class
+bin/
+out/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Data files (optional - if you don't want to upload test data)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
